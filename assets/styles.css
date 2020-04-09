@@ -33,6 +33,29 @@ body {
 	padding-top: 30px;
 }
 
+.video-soon {
+	margin: -40px 50px 50px 50px;
+	background-image: linear-gradient(#ff2c02, #dc1202);
+	transform: skew(0, -5deg);
+	color: #fff;
+	text-shadow: 2px 2px #000;
+	padding: 20px;
+}
+
+.video-soon h2, .video-soon h3, .video-soon  p, .video-soon .credits {
+	transform: skew(0, 0deg);
+	margin: 0 0 5px 0;
+	padding: 0;
+}
+
+.soon-date {
+	font-size: 1.6em;
+}
+
+.soon-title {
+	font-size: 2em;
+}
+
 .video-holder iframe {
 	border: 5px solid #333;
 	width: 560px;
