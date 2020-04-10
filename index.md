@@ -106,6 +106,7 @@
 	  			Subtitles: <b>Rev.com</b><br />
 	  			Producer: <b>Jack Silver</b><br />
 	  			Associate Producer: <b>Zo&euml; Morrall</b><br />
+				PR: <b>Paul Sullivan</b><br />
 	  			Special thanks to <b>Jonno Davies</b><br />
 	  			<br />
 	  			A <b>Tramp</b> Production<br />
