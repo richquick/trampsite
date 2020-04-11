@@ -39,7 +39,7 @@
   	</div>
   </div>
   <div class="content">
-  	<div>
+  	<div class="intro">
   		<h1>THE BEAST WILL RISE</h1>
   		<p>
   			We were due to open the world premiere of <b><i>The Beast of Blue Yonder</i></b>, a new play by Philip Ridley, at Southwark Playhouse, on April 2nd. Coronavirus shut us down.
@@ -48,7 +48,7 @@
   			But we promised you a Philip Ridley world premiere, so we're going to give you one. In fact, we're going to give you <b>fourteen</b>. Philip's written a series of monologues, to be performed by the cast of <i>The Beast of Blue Yonder</i>, and directed by our wonderful director Wiebke Green.
   		</p>
   		<p>
-  			We're releasing one a week at the same time, starting at 7.30pm on 2nd April. The day we were due to open. Enjoy!
+  			We're releasing one a week every Saturday at 7pm. Enjoy!
   		</p>
   	</div>
   	<div class="begging-letter">
@@ -67,7 +67,7 @@
   			</small>
   		</p>
   	</div>
-<div class="video-soon">
+<!-- <div class="video-soon">
 		  <h3>COMING SOON</h3>
 		  <h2 class="soon-title">ZARABOOSHKA</h2>
 		  <h3 class="soon-date">11th April 2020 at 7pm</h3>
@@ -81,7 +81,40 @@
 	  		</p>
 	  	</div>
   	</div>
-  </div>
+  </div> -->
+  <div class="video">
+	<h2>ZARABOOSHKA</h2>
+	<h3>11th April 2020 - Starring Grace Hogg-Robinson</h3>
+	<div class="video-holder">
+		<iframe src="https://www.youtube.com/embed/mI9wwm9M-vY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	<div class="share-links">
+		<!-- <b>Share:</b>  -->
+		<br/>
+		<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="I&#39;ve just watched the *WORLD PREMIERE* of Philip Ridley&#39;s ZARABOOSHKA online. " data-url="http://www.wearetramp.com" data-via="wearetramp" data-hashtags="beastwillrise" data-related="wearetramp" data-lang="en" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	</div>
+	<div class="credits">
+		<br /><h3>Credits</h3>
+		<p>
+			Starring <b>Grace Hogg-Robinson</b><br />
+			Written by <b>Philip Ridley</b><br />
+			Directed by <b>Wiebke Green</b><br />
+			<br />
+		  Director of Photography: <b>Jack Silver</b><br />
+		  Casting Director: <b>Simon Marriott</b><br />
+			Colorist / Titles: <b>Honey McKenna</b><br />
+			Subtitles: <b>Rev.com</b><br />
+		  Producer: <b>Jack Silver</b><br />
+		  PR: <b>Paul Sullivan</b><br />
+			Associate Producer: <b>Zo&euml; Morrall</b><br />
+			<br />
+			A <b>Tramp</b> Production<br />
+			&copy; Copyright Philip Ridley 2020. All Rights Reserved.<br />
+			Presented by arrangement with Knight Hall Agency Ltd.<br /><br /><br />
+		</p>
+	</div>
+</div>
+</div>
   	<div class="video">
   		<h2>GATORS</h2>
   		<h3>2nd April 2020 - Starring Rachel Bright</h3>
@@ -94,19 +127,19 @@
 	  		<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="I&#39;ve just watched the *WORLD PREMIERE* of Philip Ridley&#39;s GATORS online. " data-url="http://www.wearetramp.com" data-via="wearetramp" data-hashtags="beastwillrise" data-related="wearetramp" data-lang="en" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 	  	</div>
 	  	<div class="credits">
-	  		<br /><br /><br /><h3>Credits</h3>
+	  		<br /><h3>Credits</h3>
 	  		<p>
 	  			Starring <b>Rachel Bright</b><br />
 	  			Written by <b>Philip Ridley</b><br />
 	  			Directed by <b>Wiebke Green</b><br />
 	  			<br />
-	  			Casting Director: <b>Simon Marriott</b><br />
-	  			Director of Photography: <b>Jack Silver</b><br />
+				Director of Photography: <b>Jack Silver</b><br />
+				Casting Director: <b>Simon Marriott</b><br />
 	  			Colorist / Titles: <b>Honey McKenna</b><br />
 	  			Subtitles: <b>Rev.com</b><br />
-	  			Producer: <b>Jack Silver</b><br />
-	  			Associate Producer: <b>Zo&euml; Morrall</b><br />
+				Producer: <b>Jack Silver</b><br />
 				PR: <b>Paul Sullivan</b><br />
+	  			Associate Producer: <b>Zo&euml; Morrall</b><br />
 	  			Special thanks to <b>Jonno Davies</b><br />
 	  			<br />
 	  			A <b>Tramp</b> Production<br />
