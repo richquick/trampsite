@@ -67,7 +67,7 @@
   			</small>
   		</p>
   	</div>
-	<div class="video-soon">
+	<!-- <div class="video-soon">
 		  <h3>COMING SOON</h3>
 		  <h2 class="soon-title">CHIHUAHUA</h2>
 		  <h3 class="soon-date">18th April 2020 at 7pm</h3>
@@ -79,8 +79,39 @@
 	  			Directed by <b>Wiebke Green</b><br />
 	  		</p>
 	  	</div>
-  	</div>
-  </div>
+  	</div> -->
+<div class="video">
+	<h2>CHIHUAHUA</h2>
+	<h3>18th April 2020 - Starring Charlie Quirke</h3>
+	<div class="video-holder">
+		<iframe src="https://www.youtube.com/embed/LTgh8p_wk1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	<div class="share-links">
+		<!-- <b>Share:</b>  -->
+		<br/>
+		<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="I&#39;ve just watched the *WORLD PREMIERE* of Philip Ridley&#39;s CHIHUAHUA online. " data-url="http://www.wearetramp.com" data-via="wearetramp" data-hashtags="beastwillrise" data-related="wearetramp" data-lang="en" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+	</div>
+	<div class="credits">
+		<br /><h3>Credits</h3>
+		<p>
+			Starring <b>Grace Hogg-Robinson</b><br />
+			Written by <b>Philip Ridley</b><br />
+			Directed by <b>Wiebke Green</b><br />
+			<br />
+		  Director of Photography: <b>Jack Silver</b><br />
+		  Casting Director: <b>Simon Marriott</b><br />
+			Subtitles: <b>Rev.com</b><br />
+		  Producer: <b>Jack Silver</b><br />
+		  PR: <b>Paul Sullivan</b><br />
+			Associate Producer: <b>Zo&euml; Morrall</b><br />
+			<br />
+			A <b>Tramp</b> Production<br />
+			&copy; Copyright Philip Ridley 2020. All Rights Reserved.<br />
+			Presented by arrangement with Knight Hall Agency Ltd.<br /><br /><br />
+		</p>
+	</div>
+</div>
+
   <div class="video">
 	<h2>ZARABOOSHKA</h2>
 	<h3>11th April 2020 - Starring Grace Hogg-Robinson</h3>
