@@ -94,7 +94,7 @@
 	<div class="credits">
 		<br /><h3>Credits</h3>
 		<p>
-			Starring <b>Grace Hogg-Robinson</b><br />
+			Starring <b>Charlie Quirke</b><br />
 			Written by <b>Philip Ridley</b><br />
 			Directed by <b>Wiebke Green</b><br />
 			<br />
