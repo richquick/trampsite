@@ -67,11 +67,11 @@
   			</small>
   		</p>
   	</div>
-	<!-- <div class="video-soon">
+	<div class="video-soon">
 		  <h3>COMING SOON</h3>
-		  <h2 class="soon-title">WOUND</h2>
-		  <h3 class="soon-date">2nd May 2020 at 7pm</h3>
-		  <h3>Starring Mirren Mack</h3>
+		  <h2 class="soon-title">TELESCOPE</h2>
+		  <h3 class="soon-date">9th May 2020 at 7pm</h3>
+		  <h3>Starring Unique Spencer</h3>
 	  	<div class="credits">
 	  		<br /><h3>Credits</h3>
 	  		<p>
@@ -79,7 +79,7 @@
 	  			Directed by <b>Wiebke Green</b><br />
 	  		</p>
 	  	</div>
-  	</div> -->
+  	</div>
 
 <div class="video">
 	<h2>WOUND</h2>
