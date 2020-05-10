@@ -67,7 +67,7 @@
   			</small>
   		</p>
   	</div>
-	<div class="video-soon">
+	<!-- <div class="video-soon">
 		  <h3>COMING SOON</h3>
 		  <h2 class="soon-title">TELESCOPE</h2>
 		  <h3 class="soon-date">10th May 2020 at 7pm</h3>
@@ -79,13 +79,13 @@
 	  			Directed by <b>Wiebke Green</b><br />
 	  		</p>
 	  	</div>
-  	</div>
+  	</div> -->
 	  
-	  <!-- <div class="video">
+	  <div class="video">
 		<h2>TELESCOPE</h2>
 		<h3>10th May 2020 - Starring Unique Spencer</h3>
 		<div class="video-holder">
-			<iframe src="https://www.youtube.com/embed/4zMUH_QPD4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<iframe src="https://www.youtube.com/embed/jO37YXmimgw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
 		<div class="share-links">
 			<br/>
@@ -110,7 +110,7 @@
 				Presented by arrangement with Knight Hall Agency Ltd.<br /><br /><br />
 			</p>
 		</div>
-	</div> -->
+	</div>
 	  <div class="video">
 		<h2>WOUND</h2>
 		<h3>2nd May 2020 - Starring Mirren Mack</h3>
