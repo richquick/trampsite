@@ -66,12 +66,12 @@
   				The money will be shared equally between the actors and key creatives on our show and <b><i>Anything is Possible</i></b>, the show that was due to open the day before us in Southwark's studio space, as well as helping fund the future life of the show. We're all in it together, after all!
   			</small>
   		</p>
-  	</div>
-	<!-- <div class="video-soon">
+	  </div>
+	  <div class="video-soon">
 		  <h3>COMING SOON</h3>
-		  <h2 class="soon-title">RIVER</h2>
-		  <h3 class="soon-date">16th May 2020 at 7pm</h3>
-		  <h3>Starring Lucy Gape</h3>
+		  <h2 class="soon-title">PERFORMANCE</h2>
+		  <h3 class="soon-date">30th May 2020 at 7pm</h3>
+		  <h3>Starring Steve Furst</h3>
 	  	<div class="credits">
 	  		<br /><h3>Credits</h3>
 	  		<p>
@@ -79,10 +79,10 @@
 	  			Directed by <b>Wiebke Green</b><br />
 	  		</p>
 	  	</div>
-  	</div> -->
+  	</div> 
 	  <div class="video">
 		<h2>ECLIPSE</h2>
-		<h3>24th May 2020 - Starring Mike Evans</h3> 
+		<h3>24th May 2020 - Starring Mike Evans</h3>v
 		<div class="video-holder">
 			<iframe src="https://www.youtube.com/embed/7kORM7GrG40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
