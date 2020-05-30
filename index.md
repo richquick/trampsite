@@ -67,7 +67,7 @@
   			</small>
   		</p>
 	  </div>
-	  <div class="video-soon">
+	  <!-- <div class="video-soon">
 		  <h3>COMING SOON</h3>
 		  <h2 class="soon-title">PERFORMANCE</h2>
 		  <h3 class="soon-date">30th May 2020 at 7pm</h3>
@@ -79,10 +79,41 @@
 	  			Directed by <b>Wiebke Green</b><br />
 	  		</p>
 	  	</div>
-  	</div> 
+	  </div>  -->
+	  
 	  <div class="video">
+		<h2>PERFORMANCE</h2>
+		<h3>30th May 2020 - Starring Steve Furst</h3>
+		<div class="video-holder">
+			<iframe src="https://www.youtube.com/embed/yBWHQTesg94" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
+		<div class="share-links">
+			<br/>
+			<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="I&#39;ve just watched the *WORLD PREMIERE* of Philip Ridley&#39;s ECLIPSE. " data-url="http://www.wearetramp.com" data-via="wearetramp" data-hashtags="beastwillrise" data-related="wearetramp" data-lang="en" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		</div>
+		<div class="credits">
+			<br /><h3>Credits</h3>
+			<p>
+				Starring <b>Steve Furst</b><br />
+				Written by <b>Philip Ridley</b><br />
+				Directed by <b>Wiebke Green</b><br />
+				<br />
+			  Director of Photography: <b>Jack Silver</b><br />
+			  Casting Director: <b>Simon Marriott</b><br />
+				Subtitles: <b>Rev.com</b><br />
+			  Producer: <b>Jack Silver</b><br />
+			  PR: <b>Paul Sullivan</b><br />
+				Associate Producer: <b>Zo&euml; Morrall</b><br />
+				<br />
+				A <b>Tramp</b> Production<br />
+				&copy; Copyright Philip Ridley 2020. All Rights Reserved.<br />
+				Presented by arrangement with Knight Hall Agency Ltd.<br /><br /><br />
+			</p>
+		</div>
+	</div>
+	<div class="video">
 		<h2>ECLIPSE</h2>
-		<h3>24th May 2020 - Starring Mike Evans</h3>v
+		<h3>24th May 2020 - Starring Mike Evans</h3>
 		<div class="video-holder">
 			<iframe src="https://www.youtube.com/embed/7kORM7GrG40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		</div>
