@@ -240,6 +240,24 @@ p {
  */
 
 
+ .video-holder {
+	text-align: center;
+	padding: 20px 0;
+}
+
+.video-holder iframe {
+	border: 5px solid #333;
+	width: 400px;
+	height: 400px;
+}
+@media (max-width: 590px) {
+	.video-holder iframe {
+		width: 230px;
+		height: 230px;
+	}
+}
+
+
  .App {
 	text-align: center;
   }
