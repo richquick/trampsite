@@ -311,6 +311,14 @@
 	  background-position: center;
 	  min-height: 300px;
   }
+
+  .logo2 span {
+	width: 1px;
+	height: 1px;
+	text-indent: -9000px;
+	overflow: hidden;
+	display: block;
+  }
   
   .content {
 	  max-width: 480px;
