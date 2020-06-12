@@ -181,6 +181,8 @@ div.panelist h2 {
 	margin: -50px 0 10px 0;
 }
 
+
+
 .panel-row {
   display: flex;
   flex-direction: row;
@@ -231,6 +233,10 @@ a.panelist {
 @media (max-width: 590px) {
 	.nav a span {
 		display: none;
+	}
+
+	a.panelist h2 {
+		font-size: 0.9em;
 	}
 }
 
