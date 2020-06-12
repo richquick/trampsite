@@ -207,7 +207,7 @@ div.panelist {
 
 a.panelist {
 	text-decoration: none;
-	outline-color: background-color 0.5s ease;
+	transition: outline-color 0.5s ease;
 	outline: 3px solid rgba(255,69,0,0);
 }
 
