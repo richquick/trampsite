@@ -207,21 +207,14 @@ div.panelist {
 
 a.panelist {
 	text-decoration: none;
-	transition: outline-color 0.5s ease;
+	transition: outline-color 0.5s ease, opacity 0.5s ease;
 	outline: 3px solid rgba(255,69,0,0);
-}
-
-a.panelist img {
-	transition: opacity 0.5s ease;
 	opacity: 0.95;
-}
-
-a.panelist:hover img {
-	opacity: 1;
 }
 
 .panel-row .panelist:hover {
 	outline: 3px solid rgba(255,69,0,1);
+	opacity: 0.95;
 }
 
 .back-arrow {
